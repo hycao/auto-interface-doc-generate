@@ -8,9 +8,9 @@ auto-interface-doc-generate
 ![Maven](https://img.shields.io/badge/Maven-3.5.0-yellowgreen.svg)
 ![license](https://img.shields.io/badge/license-MPL--2.0-blue.svg)
  
-自动化接口文档生成工具，通过模板，以及可视化参数输入，自动生成eoLinker接口文档。
 
+Automated interface document generation tools(AIDG) that automatically generates eoLinker interface documents through templates and visual parameter input. 
 
-[English](README_EN.md) &nbsp;| &nbsp;  [Github地址](https://github.com/ityouknow/spring-boot-examples) 
+[中文版](README.md) &nbsp;| &nbsp;  [Github URL](https://github.com/ityouknow/spring-boot-examples) 
 
 ---
